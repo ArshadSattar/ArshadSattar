@@ -42,7 +42,7 @@
 </p>
 
 - 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
+- 📫 How to reach me **[sattar.arshad35@gmail.com](mailto:sattar.arshad35@gmail.com)**
 -  I’m interested in DevOps
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on K8s
